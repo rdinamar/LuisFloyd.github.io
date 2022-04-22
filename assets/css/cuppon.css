@@ -1,0 +1,47 @@
+body{
+    font-family: 'roboto', 'sans-serif';
+}
+
+.navbar{
+    background-color: #28a745;
+    text-align: right;
+}
+.logoblanco{
+    height: 4rem;
+    width: 9rem;
+    margin-left: 1.5rem;
+}
+
+h5{
+    color: #212529;
+}
+
+.parrafo1{
+    font-size: 16px;
+    color: #707070;
+}
+.texto1{
+    font-size: 13px;
+    color: #707070;
+}
+.texto2{
+    font-size: 16px;
+    color: #707070;
+}
+
+.formulario{
+    background-color: #28a745;
+}
+.colores{
+    color: #FFFFFF;
+}
+
+.parrafo_verde{
+    color: #28A745;
+}
+
+.logonegro{
+    height: 4rem;
+    width: 9rem;
+    margin-left: 0rem;
+}

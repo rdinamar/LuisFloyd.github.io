@@ -1,0 +1,87 @@
+body{
+    font-family: 'Hurricane', cursive;
+}
+
+nav{
+    background-color:lightskyblue;
+    padding: 10px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+li a{
+    text-decoration: none;
+    color: darkblue;
+    margin-right: 55px;
+}
+
+nav, ul{
+    margin: 0px;
+}
+
+nav, ul, li, a{
+    text-align: right;
+    font-size: 30px;
+}
+
+
+.principal{
+    border: solid;
+    background-image: url("../img/fondo3.jpg");
+    background-size:cover;
+    background-position:right;
+    display: inline-flexbox;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 150px;
+}
+.textoparrprin{
+    margin-top: 50px;
+    color: aqua;
+    font-size: 70px;
+} 
+
+
+img{
+    float: left;
+    width: 230px;
+    height: 160px;
+    margin: 20px 20px 10px 70px;
+    border-style: initial;
+    border: solid 2px;
+}
+
+.productos{
+    padding-top: 55px;
+    padding-bottom: 50px;
+    background-color:#d7f4ff;
+    color: blue;
+    font-size: 100px;
+    text-align: left;
+}
+
+.productos h5{
+    display: inline;
+}
+
+.productos p{
+    color: green;
+    font-size: 30px;
+}
+
+
+footer{
+    background-color: lightskyblue;
+    padding: 10px;
+}
+
+footer, a, .contacto{
+    color: red;
+    text-align:center;
+    text-indent: 20px;
+}
