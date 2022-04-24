@@ -1,3 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color:teal;
+}
+
+h2 {
+    color: teal;
+}
+
+h3 {
+    color: teal;
+}
+
 .imagen_cv{
     height: 250px;
     width: 230px;
